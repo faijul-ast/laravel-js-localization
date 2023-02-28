@@ -30,7 +30,7 @@
     },
     "extra": {
         "component": "package",
-        "frameworks": ["Laravel 7", "Laravel 8"]
+        "frameworks": ["Laravel 7", "Laravel 8", "Laravel 9"]
     },
     "minimum-stability": "dev",
     "repositories": [
